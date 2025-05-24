@@ -11,10 +11,10 @@ A fully functional and scalable e-commerce web application built using the MERN 
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React, React Router, Axios  
+- **Frontend:** HTML, CSS,JavaScript , React.js
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB with Mongoose  
-- **Tools & Utilities:** dotenv, nodemon, concurrently, Git & GitHub  
+- **Database:** MongoDB with Mongoose 
+- **Tools & Utilities:** dotenv, vercel, netfly , Git & GitHub  
 
 ---
 
@@ -31,14 +31,14 @@ A fully functional and scalable e-commerce web application built using the MERN 
 
 ## 🧪 How to Run Locally
 
-## 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/Aksh4325/Dream-Ecommerce-Platform.git
 cd Dream-Ecommerce-Platform
 
 
-## 2. Setup Backend
+2. Setup Backend
 
 cd backend
 npm install
@@ -53,7 +53,6 @@ Then run the backend server:
 npm run dev
 
 
----
 
 3. Setup Frontend
 
@@ -91,6 +90,49 @@ Dream-Ecommerce-Platform/
 │   └── package.json
 
 ---
+
+
+
+🌐 Live Demo
+
+> Coming Soon – Deployment on Render / Vercel / Netlify + MongoDB Atlas
+
+
+
+
+---
+
+📷 Screenshots
+
+> Screenshots and demo GIFs will be added after frontend UI completion.
+
+
+
+
+---
+
+📌 Purpose
+
+This project is designed to help beginners understand how real-world full-stack applications are developed, structured, and deployed. It includes basic functionality to get started and can be extended further with features like authentication, cart, payments, and admin dashboard.
+
+
+---
+
+👨‍💻 Author
+
+Akshay Tiwari
+
+GitHub: Aksh4325
+
+LinkedIn: Akshay Tiwari
+
+
+
+---
+
+📝 License
+
+This project is licensed under the MIT License — feel free to use it for learning and development.
 
 
 
