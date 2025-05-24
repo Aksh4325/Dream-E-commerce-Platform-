@@ -1,8 +1,3 @@
-
-
-
-
-
 ## Dream E-commerce Platform
 
 A fully functional and scalable e-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Designed and developed independently to showcase end-to-end full-stack development skills, with clean architecture and modular code.
@@ -31,14 +26,12 @@ A fully functional and scalable e-commerce web application built using the MERN 
 
 ## 🧪 How to Run Locally
 
-1. Clone the Repository
+## 🧬 Clone the Repository
 
-```bash
 git clone https://github.com/Aksh4325/Dream-Ecommerce-Platform.git
 cd Dream-Ecommerce-Platform
 
-
-2. Setup Backend
+## 🚀 Setup Backend
 
 cd backend
 npm install
@@ -53,8 +46,7 @@ Then run the backend server:
 npm run dev
 
 
-
-3. Setup Frontend
+## 🚀 Setup Frontend
 
 cd ../frontend
 npm install
@@ -62,6 +54,40 @@ npm start
 
 Frontend will start at: http://localhost:3000
 
+
+---
+
+## 🌐 Live Demo
+
+Coming Soon – Deployment on Render / Vercel / Netlify + MongoDB Atlas
+
+---
+
+## 📷 Screenshots
+
+Screenshots and demo GIFs will be added after frontend UI completion.
+
+---
+
+## 📌 Purpose
+
+This project is designed to help beginners understand how real-world full-stack applications are developed, structured, and deployed. It includes basic functionality to get started and can be extended further with features like authentication, cart, payments, and admin dashboard.
+
+---
+
+## 👨‍💻 Author
+
+Akshay Tiwari
+
+GitHub: Aksh4325
+
+LinkedIn: Akshay Tiwari
+
+---
+
+## Licence 
+
+This project is licensed under the MIT License — feel free to use it for learning and development.
 
 ---
 
@@ -88,51 +114,4 @@ Dream-Ecommerce-Platform/
 │   │       ├── HomeScreen.js
 │   │       └── ProductScreen.js
 │   └── package.json
-
----
-
-
-
-🌐 Live Demo
-
-> Coming Soon – Deployment on Render / Vercel / Netlify + MongoDB Atlas
-
-
-
-
----
-
-📷 Screenshots
-
-> Screenshots and demo GIFs will be added after frontend UI completion.
-
-
-
-
----
-
-📌 Purpose
-
-This project is designed to help beginners understand how real-world full-stack applications are developed, structured, and deployed. It includes basic functionality to get started and can be extended further with features like authentication, cart, payments, and admin dashboard.
-
-
----
-
-👨‍💻 Author
-
-Akshay Tiwari
-
-GitHub: Aksh4325
-
-LinkedIn: Akshay Tiwari
-
-
-
----
-
-📝 License
-
-This project is licensed under the MIT License — feel free to use it for learning and development.
-
-
 
