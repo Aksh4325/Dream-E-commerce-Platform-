@@ -20,7 +20,27 @@ A full-stack e-commerce web application built using the MERN stack (MongoDB, Exp
 
 ## 📁 Project Structure
 
-Dream-Ecommerce-Platform/ ├── backend/ │   ├── server.js │   ├── config/ │   │   └── db.js │   ├── models/ │   │   └── Product.js │   ├── routes/ │   │   └── productRoutes.js │   ├── controllers/ │   │   └── productController.js │   ├── data/ │   │   └── products.js │   ├── .env │   └── package.json │ ├── frontend/ │   ├── src/ │   │   ├── App.js │   │   ├── index.js │   │   ├── components/ │   │   │   ├── Header.js │   │   │   └── Product.js │   │   └── screens/ │   │       ├── HomeScreen.js │   │       └── ProductScreen.js │   ├── public/ │   └── package.json
+```bash
+Dream-Ecommerce-Platform/
+├── backend/
+│   ├── server.js
+│   ├── config/db.js
+│   ├── models/Product.js
+│   ├── routes/productRoutes.js
+│   ├──controllers/productController.js
+│   ├── data/products.js
+│   ├── .env
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   ├── components/
+│   │   └── screens/
+│   │       ├── HomeScreen.js
+│   │       └── ProductScreen.js
+│   └── package.json
 
 ---
 
@@ -118,14 +138,4 @@ This project is licensed under the MIT License — feel free to use it for learn
 
 ---
 
----
-
-Let me know when you're ready for:
-
-- Hosting this project  
-- Adding advanced features  
-- Creating a walkthrough video or portfolio write-up  
-- Or generating a custom cover image for your repo
-
-You're doing awesome — this will stand out!
 
