@@ -9,7 +9,7 @@ A fully functional and scalable e-commerce web application built using the MERN 
 - **Frontend:** HTML, CSS,JavaScript , React.js
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB with Mongoose 
-- **Tools & Utilities:** dotenv, vercel, netfly , Git & GitHub  
+- **Tools & Utilities:** dotenv, Vercel, Netlifly , Git & GitHub  
 
 ---
 
