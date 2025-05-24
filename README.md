@@ -29,6 +29,7 @@ A fully functional and scalable e-commerce web application built using the MERN 
 ## 🧬 Clone the Repository
 
 git clone https://github.com/Aksh4325/Dream-Ecommerce-Platform.git
+
 cd Dream-Ecommerce-Platform
 
 ## 🚀 Setup Backend
