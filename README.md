@@ -26,13 +26,13 @@ A fully functional and scalable e-commerce web application built using the MERN 
 
 ## 🧪 How to Run Locally
 
-## 🧬 Clone the Repository
+## 1. Clone the Repository
 
 git clone https://github.com/Aksh4325/Dream-Ecommerce-Platform.git
 
 cd Dream-Ecommerce-Platform
 
-## 🚀 Setup Backend
+## 2. Setup Backend
 
 cd backend
 npm install
@@ -47,7 +47,7 @@ Then run the backend server:
 npm run dev
 
 
-## 🚀 Setup Frontend
+## 3. Setup Frontend
 
 cd ../frontend
 npm install
