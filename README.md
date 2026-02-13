@@ -432,21 +432,22 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**Akshay Tiwari**  
-Data Analyst | Python Developer
+**Akshay Tiwari**
+- Data Analyst | Python Developer 
+- Email: tiwariaksh25@gmail.com
 
-- 📧 Email: akshay.tiwari@example.com
-- 💼 LinkedIn: [Your Profile]
-- 🐙 GitHub: [Your Profile]
+**Ayush patidar**
+- Web Developer | Software Tester 
+- Email: ayushpatidar@gmail.com
 
 ---
 
 ## 🎓 Academic Information
 
-**Institution:** [Your College Name]  
+**Institution:** Medicaps University
 **Program:** Data Analytics / Data Science  
-**Year:** 2026  
-**Project Type:** Portfolio Project
+**Year:** 2023-2025
+**Project Type:** Final Year Project
 
 ---
 
@@ -462,12 +463,12 @@ Data Analyst | Python Developer
 ## 📞 Support
 
 For questions or issues:
-- 📧 Email: akshay.tiwari@example.com
+- 📧 Email: Medicaps@enquiry.com
 - 🐛 GitHub Issues: [Create Issue]
 - 📖 Documentation: See setup guides
 
 ---
 
-**© 2026 Akshay Tiwari. All Rights Reserved.**
+**© 2025 Akshay Tiwari | Aayush Patidar. All Rights Reserved.**
 
 *Built with 💙 for data analytics*
